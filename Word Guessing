@@ -1,7 +1,4 @@
-''' Course Code: PE081DS9
-English Full Name: Cheung Mong Nok
-Student Number: 14
-Assignment Numeber: 2'''
+''' Word Gueesing Game '''
 
 print("Type of fruit with five letter and red in color")
 
@@ -13,3 +10,4 @@ while attem:
         break
     else:  # while user's guess was incorrect
         print("Wrong guess, try again!")
+
