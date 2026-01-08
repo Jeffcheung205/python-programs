@@ -1,4 +1,4 @@
-import random as random
+import random 
 
 ran_num = random.randint(1, 100)
 min_num = 1
@@ -31,3 +31,4 @@ while True:
 
     except ValueError:
         print("Invalid input. Please enter a valid integer.")
+
